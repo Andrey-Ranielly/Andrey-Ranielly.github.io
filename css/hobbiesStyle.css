@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(img/orion-nebula.jpg);
+    background-image: url("img/orion-nebula.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
