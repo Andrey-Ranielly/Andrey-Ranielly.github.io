@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h2{
+    color: lime;
+}
+textarea{
+    background-color: black;
+    border: none;
+}
+input{
+    background-color: black;
+    border: none;
+}

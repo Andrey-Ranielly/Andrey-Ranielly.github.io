@@ -1,0 +1,12 @@
+
+body{
+    background-image: url(img/orion-nebula.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+color: lime;
+}
+p{
+color:lime;
+}
